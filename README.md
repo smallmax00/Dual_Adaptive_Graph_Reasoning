@@ -11,7 +11,7 @@
 
 # Test
 - Download our pre-trained model's parameter then put it into your-own-path
-- 
+- https://drive.google.com/file/d/12uqe20GdX3-DxeszPqdlIB2o8svyh_vs/view?usp=sharing
 - run test.py
 
 
