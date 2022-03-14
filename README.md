@@ -21,7 +21,7 @@ If you find our work useful or our work gives you any insights, please cite:
 ```
 @InProceedings{Meng_2022_DAGCN,
     author    = {Meng, Yanda and Zhang, Hongrun and Zhao, Yitian and Gao, Dongxu and Hamill, Barbra and Patri, Godhuli amd Madhusudhan, Savita and Zheng, Yalin},
-    title     = {Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Network},
+    title     = {Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks},
     year      = {2022},
 }
 ```
