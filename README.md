@@ -15,7 +15,7 @@
 - run test.py
 
 # Qualitative Results of Coherence Comparison
-![alt text](https://drive.google.com/drive/folders/1QhkGsNQPiYuLIAtrurzbhEPKglaxLCmS)
+![alt text](https://drive.google.com/file/d/1bXZhqyYRApJosq9GpqyPKPZ9VfucAOye/view?usp=sharing)
 
 # Citation
 If you find our work useful or our work gives you any insights, please cite:
