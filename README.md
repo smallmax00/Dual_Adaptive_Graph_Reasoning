@@ -15,7 +15,7 @@
 - run test.py
 
 # Qualitative Results of Coherence Comparison
-![alt text](https://drive.google.com/file/d/1bXZhqyYRApJosq9GpqyPKPZ9VfucAOye/view?usp=sharing)
+![alt text](https://github.com/smallmax00/Dual_Adaptive_Graph_Reasoning/blob/main/cohension_TMI.png)
 
 # Citation
 If you find our work useful or our work gives you any insights, please cite:
