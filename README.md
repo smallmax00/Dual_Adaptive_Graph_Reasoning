@@ -14,8 +14,8 @@
 - https://drive.google.com/file/d/12uqe20GdX3-DxeszPqdlIB2o8svyh_vs/view?usp=sharing
 - run test.py
 
-# Cohrence Comparison
-![alt text](http://url/to/img.png)
+# Qualitative Results of Coherence Comparison
+![alt text](https://drive.google.com/drive/folders/1QhkGsNQPiYuLIAtrurzbhEPKglaxLCmS)
 
 # Citation
 If you find our work useful or our work gives you any insights, please cite:
