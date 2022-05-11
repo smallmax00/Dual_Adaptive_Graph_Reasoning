@@ -1,6 +1,6 @@
 # Dual_Adaptive_Graph_Reasoning
 
-- **access to the implementation code: https://doi.org/10.5281/zenodo.6539438**
+- **Because our paper is still under review, thus please ask access to the implementation code: https://doi.org/10.5281/zenodo.6539438**
 
 - Prepare your data.
 
