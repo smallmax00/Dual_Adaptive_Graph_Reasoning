@@ -1,6 +1,6 @@
 # Dual_Adaptive_Graph_Reasoning
 
-- **Because our paper is still under review, thus please ask access to the implementation code: https://doi.org/10.5281/zenodo.6539438**
+- please refer to the implementation code: https://doi.org/10.5281/zenodo.6539438**
 
 - Prepare your data.
 
@@ -21,3 +21,15 @@
 
 
 
+# Citation
+If you find our work useful or our work gives you any insights, please cite:
+```
+@article{meng2022dual,
+  title={Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks},
+  author={Meng, Yanda and Zhang, Hongrun and Zhao, Yitian and Gao, Dongxu and Hamill, Barbra and Patri, Godhuli and Peto, Tunde and Madhusudhan, Savita and Zheng, Yalin},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2022},
+  publisher={IEEE}
+}
+
+```
