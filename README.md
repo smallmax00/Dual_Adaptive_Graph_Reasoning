@@ -1,6 +1,6 @@
 # Dual_Adaptive_Graph_Reasoning
 
-- please refer to the implementation code: https://doi.org/10.5281/zenodo.6539438**
+- please refer to the implementation code: https://doi.org/10.5281/zenodo.6539438
 
 - Prepare your data.
 
